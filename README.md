@@ -6,4 +6,4 @@ For gathering training images [pyimgdata](https://github.com/jeffheaton/pyimgdat
 
 ## References 
 - [Training a GAN from your own images: StyleGAN2 ADA](https://www.youtube.com/watch?v=kbDd5lW6rkM&t=2s)
-- 
+- [StyleGAN2 ADA tutorial](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_07_3_style_gan.ipynb)
